@@ -27,6 +27,10 @@ transakcijų kūrimą, o ciklą stabdyti naudojantis kitomis logiškomis sąlygo
 * Atsisiųsti programos kodą iš "releases";
 * Kodą išarchyvuoti naujame aplanke;
 * Aplanką atsidaryti naudojantis Jums patinkantį IDE, arba terminalą (pavaizduota apačioje).
+
+
+
+
 ![image](https://user-images.githubusercontent.com/78842398/152876688-05ffba81-0197-4ba2-a969-c37f1c8d8d0a.png)
 * Kodą sukompiliuoti, o po to paleisti .exe failą naudojantis šias komandas:
 
